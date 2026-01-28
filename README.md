@@ -2,15 +2,16 @@
   <tr>
     <td valign="top" width="60%">
       <h1 style="margin:0">Divine Azodo</h1>
-      ```cpp
-      cout << "this user likes to commit!!" << endl;
-      ```
+
+      <pre><code class="language-cpp">cout &lt;&lt; "this user likes to commit!!" &lt;&lt; endl;</code></pre>
+
       <p style="margin:6px 0 6px 0">
-        <a href="https://www.linkedin.com/in/divineazodo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-        <a href="https://github.com/DivineSMG"><img alt="Visitors" src="https://img.shields.io/badge/dynamic/json?color=white&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FDivineSMG%2FDivineSMG&style=for-the-badge"></a>
+        <a href="https://www.linkedin.com/in/divineazodo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+        <a href="https://github.com/DivineSMG"><img alt="Visitors" src="https://img.shields.io/badge/dynamic/json?color=white&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FDivineSMG%2FDivineSMG&style=for-the-badge"/></a>
       </p>
+
       <p style="margin:0.25rem 0 0 0">
-        <strong>Aspiring software builder • Learner</strong><br>
+        <strong>Aspiring software builder • Learner</strong><br/>
         I love to learn, game, write small code, and steadily improve. I also like basketball and music.
       </p>
     </td>
