@@ -1,0 +1,21 @@
+github_username: DivineSMG
+display_name: "Divine Azodo"
+# One-line bio shown as C++ code
+bio_code: 'cout << "this user likes to commit!!" << endl;'
+# LinkedIn profile (leave blank to hide)
+linkedin_url: "https://www.linkedin.com/in/divineazodo"
+
+# Animated GIF options:
+# - external_gif_url: provide a fully-qualified URL for an externally hosted GIF (optional)
+# - gif_path: path inside the repo where the GIF will live (e.g., assets/animated-coder.gif)
+# - branch_name: default branch used to construct raw.githubusercontent.com URLs (usually Main or main)
+external_gif_url: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJ1amU0NmpyOWIyZzBmd3EwaWU0NW91a21lMmdlMjVlbjJhNHBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"
+gif_path: "assets/animated-coder.gif"
+branch_name: "Main"
+
+# Toggle features
+show_github_stats: true
+show_top_languages: true
+show_recent_commits: true
+show_visitor_badge: true
+show_last_updated: true
