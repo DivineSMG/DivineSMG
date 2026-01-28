@@ -16,7 +16,6 @@
     </td>
   </tr>
 </table>
-
 <p>
   <a href="https://github.com/DivineSMG"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DivineSMG&show_icons=true&count_private=false&theme=radical"></a>
   &nbsp;
